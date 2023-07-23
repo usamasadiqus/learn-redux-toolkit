@@ -13,7 +13,7 @@ const Home = () => {
 
   return (
     <div className="container">
-      <h2 className="my-2">Crud App</h2>
+      <h2 className="my-2 text-center">Crud App using Redux Toolkit</h2>
 
       <Link to="/create" className="btn btn-success my-3">
         Create +
